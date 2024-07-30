@@ -1,0 +1,19 @@
+{
+  "name": "institute-management",
+  "version": "1.0.0",
+  "description": "Institute management application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affanbinhasan/institute-management.git"
+  },
+  "author": "Affan Bin Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/affanbinhasan/institute-management/issues"
+  },
+  "homepage": "https://github.com/affanbinhasan/institute-management#readme"
+}
